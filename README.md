@@ -1,2 +1,16 @@
-# Magica-App
-Don’t Miss Our App! It’s Free to Download for You Our platform allows the sale of products directly to customers, bypassing third party retailers wholesalers or any other intermediary.  Promote the ecosystem of innovative entrepreneurship internationally.  Its also an independent full service market research agency, specialized in Qualitative and Quantitative studies.  Equip project leaders with the right skills to innovate, disrupt and develop startup projects that create value.
+# active_ecommerce_flutter
+
+This is the flutter mobile application for active ecommerce cms
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
